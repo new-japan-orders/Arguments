@@ -1,0 +1,13 @@
+{
+  "name": "new-japan-orders/arguments",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "new-japan-orders/stub": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "NewJapanOrders\\Arguments\\": "src/"
+    }   
+  }
+}
